@@ -2,7 +2,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cortes0702&show_icons=true&locale=en&layout=compact" alt="cortes0702"/></p>
 
-- 👨‍💻 Actualmente estoy desarrollando mi Proyecto Final de Grado Superior **Desarrollo de Aplicaciones Web**
+- 👨‍💻 Actualmente estoy desarrollando mi TFG de Grado Superior **Desarrollo de Aplicaciones Web**
 
 - 💡 Actualmente estoy aprendiendo **Nodejs y Vue**
 
