@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, mi nombre es Jaume Cortés</h1>
+<h1 align="center">Hola 👋, soy Jaume Cortés</h1>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cortes0702&show_icons=true&locale=en&layout=compact" alt="cortes0702"/></p>
 
