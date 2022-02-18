@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, mi nombre es Jaume Cortés</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=albertocervera&label=Profile%20views&color=0e75b6&style=flat" alt="cortes0702" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cortes0702&show_icons=true&locale=en&layout=compact" alt="cortes0702" /></p>
 
 - 👨‍💻 Actualmente estoy desarrolando mi Proyecto Final de Grado Superior **Desarrollo de Aplicaciones Web**
 
@@ -8,4 +8,4 @@
 
 - 📫 Puedes contactar conmigo en: **jaumej2002@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cortes0702&show_icons=true&locale=en&layout=compact" alt="cortes0702" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=albertocervera&label=Profile%20views&color=0e75b6&style=flat" alt="cortes0702" /> </p>
