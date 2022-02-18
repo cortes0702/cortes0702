@@ -8,4 +8,4 @@
 
 - 📫 Puedes contactar conmigo en: **jaumej2002@gmail.com**
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=albertocervera&label=Profile%20views&color=0e75b6&style=flat" alt="cortes0702" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cortes0702a&label=Profile%20views&color=0e75b6&style=flat" alt="cortes0702" /> </p>
